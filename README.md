@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <src="[https://github.com/DavidCdeB/Trial/blob/master/Images/extract2.svg](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)">
+  <src="https://github.com/DavidCdeB/Trial/blob/master/Images/extract2.svg](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true">
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)
 
 ## Tech Stack
 <!-- Refer to https://ileriayo.github.io/markdown-badges/ -->
