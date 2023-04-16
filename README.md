@@ -6,8 +6,11 @@
 </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://github.com/ayhteo">
+    <img height="180em" src="[https://github-readme-stats-eight-theta.vercel.app/api?username=ayhteo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)"/>
+</a>
+</p>
 
 ## Tech Stack
 <!-- Refer to https://ileriayo.github.io/markdown-badges/ -->
