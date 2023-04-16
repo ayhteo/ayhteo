@@ -1,6 +1,11 @@
 ## 👋 &nbsp;About
 
-Love all things engineering + statistics :) 
+<p align="center">
+  <a href="https://github.com/ayhteo">
+  <img height="180em" src="about.jpeg">
+  <figcaption>Love all things engineering + statistics :) </figcaption>
+    </a>
+</p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
