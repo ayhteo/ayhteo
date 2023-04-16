@@ -1,6 +1,6 @@
-## 👋 &nbsp;About
+## 👋 &nbsp;
 
-Mechanical engineer and statistics enthusiast ⛈️
+Mechanical engineer and statistics enthusiast :)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
