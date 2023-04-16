@@ -6,12 +6,12 @@
     </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/ayhteo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ayhteo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhteo&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"/> -->
 </a>
-</p>
+</p> -->
 
 ## Tech Stack
 <!-- Refer to https://ileriayo.github.io/markdown-badges/ -->
