@@ -1,13 +1,9 @@
 ## 👋 &nbsp;About
 
-<p align="center">
-  <a href="https://github.com/ayhteo">
-    <figure>
+<figure align="center">
   <img width="360em" src="about.jpeg">
   <figcaption style='text-align:center;'>Love all things engineering + statistics :) </figcaption>
-      </figure>
-    </a>
-</p>
+</figure>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
