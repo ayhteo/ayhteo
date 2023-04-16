@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/ayhteo">
-  <img height="180em" src="about.jpeg">
-  <figcaption>Love all things engineering + statistics :) </figcaption>
+  <img width="360em" src="about.jpeg">
+  <figcaption style={text-align: center}>Love all things engineering + statistics :) </figcaption>
     </a>
 </p>
 
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ayhteo">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true">
+  <img width="360em" src="https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true">
     </a>
 </p>
 
