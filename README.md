@@ -1,6 +1,6 @@
 ## 👋 &nbsp;About
 
-<p align="center">
+<p align="center" style='text-align:center;'>
   <a style='text-align:center;' href="https://github.com/ayhteo">
   <img width="360em" src="about.jpeg">
   <figcaption>Love all things engineering + statistics :) </figcaption>
