@@ -1,9 +1,11 @@
 ## 👋 &nbsp;About
 
-<p align="center" style='text-align:center;'>
-  <a style='text-align:center;' href="https://github.com/ayhteo">
+<p align="center">
+  <a href="https://github.com/ayhteo">
+    <figure>
   <img width="360em" src="about.jpeg">
-  <figcaption>Love all things engineering + statistics :) </figcaption>
+  <figcaption style='text-align:center;'>Love all things engineering + statistics :) </figcaption>
+      </figure>
     </a>
 </p>
 
