@@ -5,9 +5,12 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhteo&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"/> -->
 </a>
 </p>
-<p style="text-align: center;">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+<p align="center">
+  <src="[https://github.com/DavidCdeB/Trial/blob/master/Images/extract2.svg](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)">
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 ## Tech Stack
 <!-- Refer to https://ileriayo.github.io/markdown-badges/ -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
