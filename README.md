@@ -1,9 +1,9 @@
 ## 👋 &nbsp;About
 
 <p align="center">
-<figure align="center">
+<figure>
   <img width="360em" src="about.jpeg">
-  <figcaption style='text-align:center;'>Love all things engineering + statistics :) </figcaption>
+  <figcaption style='text-align:center'>Love all things engineering + statistics :) </figcaption>
 </figure>
  </p>
 
