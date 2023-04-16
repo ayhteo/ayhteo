@@ -5,11 +5,9 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhteo&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"/> -->
 </a>
 </p>
-<p align="center">
-<a href="https://github.com/ayhteo">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayhteo&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-</a>
-</p>
+
 
 ## Tech Stack
 <!-- Refer to https://ileriayo.github.io/markdown-badges/ -->
