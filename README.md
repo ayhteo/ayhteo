@@ -1,3 +1,7 @@
+## 👋 &nbsp;About
+
+Love all things engineering + statistics :) 
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -13,7 +17,7 @@
 </a>
 </p>
  -->
-## Tech Stack
+## 🧑‍💻 &nbsp;Tech Stack
 <!-- Refer to https://ileriayo.github.io/markdown-badges/ -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
@@ -35,7 +39,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-### Connect with Me
+## 📲 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.ayhteo.com"><img src="https://img.shields.io/badge/-ayhteo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/aaron-teo-426608134"><img src="https://img.shields.io/badge/-Aaron%20Teo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
