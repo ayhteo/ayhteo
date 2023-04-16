@@ -1,9 +1,9 @@
 ## 👋 &nbsp;About
 
 <p align="center">
-  <a href="https://github.com/ayhteo">
+  <a style='text-align:center;' href="https://github.com/ayhteo">
   <img width="360em" src="about.jpeg">
-  <figcaption style="text-align: center">Love all things engineering + statistics :) </figcaption>
+  <figcaption>Love all things engineering + statistics :) </figcaption>
     </a>
 </p>
 
