@@ -1,11 +1,11 @@
-## 👋 &nbsp;About
+# 👋 
 
-<p align="center">
+<!-- <p align="center">
 <figure>
   <img width="360em" src="about.jpeg">
   <figcaption style='text-align:center'>Love all things engineering + statistics :) </figcaption>
 </figure>
- </p>
+ </p> -->
 
 ## ⚙️ &nbsp;GitHub Analytics
 
